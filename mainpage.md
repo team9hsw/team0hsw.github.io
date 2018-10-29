@@ -1,17 +1,67 @@
-<!DOCTPYE HTML> 
-<html>
-<title> 
-Computer Composition
-</title>
-<h1> Computer Power </h1>
+<!DOCTYPE HTML> 
+<html> 
+<head>
+<style type="text/css"media="screen">
+
+body  {background-image:url("projbackground.jpg");
+       width:800px;
+       margin:auto;}
+h1{ font-family;tahoma;
+     font-size:200%;
+     color:black;
+     text-align: center;
+     padding:5px;}
+h2{ font-family;tahoma;
+     font-size:200%;
+     color:#D4CB6A;
+     text-align: center;
+     padding:5px;}
+p{ font-family:arial;
+   font-size: 100%;
+   color: black;
+   text-align:left;
+   line-height:125%;} 
+hr{ width:450px;
+    height:15px;
+    color:#D4CB6A;
+    backround-color:black;
+img{ margin:30px;
+     text-align:center;
+     display:block;
+     float:none;
+     border-width:10px;
+     border-color:gold;
+     background-color:gold;
+     border-style:double;}
+div {background-color:black;
+     padding:30px;
+     margin:25px;
+      }
+</head>
+</style>
+<body>
+<div>
+
+<h1> <b> Computer Power </b>  </h1> 
 <body> 
+<p> For challenge #2, "How Stuff Works", my group decided to take an approach that focuses on the power supply of a computer. </p>  
+<br>
+<p> This web page shall explain how the Power Supply powers a computer, and everything else behind the scenes of the power system. </p>
+<hr> 
+<h1> Power Supply </h1> 
+<p> At its core, the power supply converts high voltage AC energy to low voltage DC energy. </p>
+<p> Power supplys have a few different variants. These variants allow a computer to run/operate better depending upon the situation </p>
+<p> Power supplies are often sorted by how much voltage they provide, such as the list below. </p>
+<p> Some of the differnet variants of power supplies would be 
+<ul>
+<li> 3.3 volts </li>
+<li> 5 volts </li> 
+<li> 12 volts </li> 
+</ul> 
+</p>
+<button type="button"> <a href="youtube.com"> REEE</a></button>
 
 
-<p> For challenge 2, "How Stuff Works", our group decided that we were going to take apart/inspect a computer. </p>
- 
-
-
-
-
-
-</html> 
+</div>
+</body> 
+</html>
