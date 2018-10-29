@@ -1,44 +1,7 @@
 <!DOCTYPE HTML> 
 <html> 
 <head>
-<style type="text/css"media="screen">
-
-body  {background-image:url("projbackground.jpg");
-       width:800px;
-       margin:auto;}
-h1{ font-family;tahoma;
-     font-size:200%;
-     color:black;
-     text-align: center;
-     padding:5px;}
-h2{ font-family;tahoma;
-     font-size:200%;
-     color:#D4CB6A;
-     text-align: center;
-     padding:5px;}
-p{ font-family:arial;
-   font-size: 100%;
-   color: black;
-   text-align:left;
-   line-height:125%;} 
-hr{ width:450px;
-    height:15px;
-    color:#D4CB6A;
-    backround-color:black;
-img{ margin:30px;
-     text-align:center;
-     display:block;
-     float:none;
-     border-width:10px;
-     border-color:gold;
-     background-color:gold;
-     border-style:double;}
-div {background-color:black;
-     padding:30px;
-     margin:25px;
-      }
-</head>
-</style>
+       </head>
 <body>
 <div>
 
